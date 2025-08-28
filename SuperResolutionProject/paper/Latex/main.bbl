@@ -1,0 +1,38 @@
+\begin{thebibliography}{1}
+
+\bibitem{dong2014learning}
+C.~Dong, C.~C. Loy, K.~He, and X.~Tang, ``Learning a deep convolutional network
+  for image super-resolution,'' in {\em European Conference on Computer Vision
+  (ECCV)},  pp.~184--199, Springer, 2014.
+
+\bibitem{ledig2017srgan}
+C.~Ledig, L.~Theis, F.~Husz{\'a}r, J.~Caballero, A.~Cunningham, A.~Acosta,
+  A.~Aitken, A.~Tejani, J.~Totz, Z.~Wang, and W.~Shi, ``Photo-realistic single
+  image super-resolution using a generative adversarial network,'' in {\em IEEE
+  Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pp.~4681--4690, 2017.
+
+\bibitem{wang2018esrgan}
+X.~Wang, K.~Yu, S.~Wu, J.~Gu, Y.~Liu, C.~Dong, Y.~Qiao, and C.~Change~Loy,
+  ``Esrgan: Enhanced super-resolution generative adversarial networks,'' in
+  {\em European Conference on Computer Vision (ECCV) Workshops},  2018.
+
+\bibitem{kaggle_dataset}
+T.~Tillo, ``Satellite image caption generation dataset.'' Kaggle, 2020.
+
+\bibitem{scikit_image}
+S.~van~der Walt, J.~L. Schönberger, J.~Nunez-Iglesias, F.~Boulogne, J.~D.
+  Warner, N.~Yager, E.~Gouillart, and T.~Yu, ``scikit-image: image processing
+  in python,'' {\em PeerJ}~{\bf 2}, p.~e453, 2014.
+
+\bibitem{geeksforgeeks_similarity}
+GeeksforGeeks, ``Image similarity — understanding and implementing methods,''
+  2021.
+
+\bibitem{geeksforgeeks_psnr}
+GeeksforGeeks, ``Python | peak signal to noise ratio (psnr),'' 2022.
+
+\bibitem{github_repo}
+H.~Singh, ``Superresolutionproject.'' GitHub Repository, 2025.
+
+\end{thebibliography}
